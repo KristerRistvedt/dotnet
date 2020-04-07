@@ -133,7 +133,6 @@ C:\Users\josost\source\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreap
 C:\Users\josost\source\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\josost\source\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\josost\source\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\josost\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp3.1\RazorPagesMovie.csprojAssemblyReference.cache
 C:\Users\josost\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp3.1\RazorPagesMovie.csproj.CoreCompileInputs.cache
 C:\Users\josost\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp3.1\RazorPagesMovie.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\josost\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp3.1\RazorPagesMovie.RazorAssemblyInfo.cache
