@@ -8,5 +8,6 @@ Test title
     Open Browser  about:blank  chrome
     Go To  http://localhost:5000
     Wait Until Page Contains  Anslutningen är inte privat
+    Sleep  5s
     Close Browser
 
